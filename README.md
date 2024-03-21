@@ -14,7 +14,7 @@ Authors:
 
 ## Course Contents
 
-The course targets a broad range of standard topics in statistics and machine learning.
+This course provides an exploration of essential statistical concepts and methods crucial for data analysis across various scientific disciplines. We will start with the fundamental principles of resampling techniques such as Monte Carlo simulation and Bootstrap and how these methods underpin modern statistical inference. Next, we will cover parametric estimation methods, hypothesis testing, nonparametric estimation techniques, regression analysis, and the design of experiments. We will further explore advanced topics including distances between distributions, hypothesis testing methodologies like Neyman-Pearson lemma and A/B testing, as well as nonparametric criteria. Practical applications in fields such as neuroscience will be highlighted, demonstrating the relevance and applicability of statistical methods in real-world scenarios. By the end of the course, students will have acquired a robust foundation in statistical theory and methodology, enabling them to critically analyze data, make informed decisions, and contribute effectively to research and problem-solving endeavors in their respective fields. This course not only equips students with essential statistical tools but also fosters a deeper appreciation for the role of statistics in advancing scientific understanding and discovery.
 
  * _Lecture 1._ Course introduction.
  * _Lecture 2._ Resampling. Monte Carlo simulation. Bootstrap. Confidence intervals. Multiple comparisons correction. Bagging in machine learning.
